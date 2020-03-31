@@ -468,3 +468,14 @@
 * Route Details.
 
 ![Image ipa](https://github.com/NileshChandekar/MPLS_Core_Network/blob/master/images/3.png)
+
+
+### Edge Node.
+
+* IP Details
+
+![Image ipa](https://github.com/NileshChandekar/MPLS_Core_Network/blob/master/images/4.png)
+
+* Route Details.
+
+![Image ipa](https://github.com/NileshChandekar/MPLS_Core_Network/blob/master/images/5.png)
