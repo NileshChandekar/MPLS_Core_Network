@@ -459,6 +459,12 @@
 
 * Linux Nodes Interface Configurations.
 
+### Central Node.
+
+* IP Details
+
 ![Image ipa](https://github.com/NileshChandekar/MPLS_Core_Network/blob/master/images/2.png)
+
+* Route Details.
 
 ![Image ipa](https://github.com/NileshChandekar/MPLS_Core_Network/blob/master/images/3.png)
