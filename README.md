@@ -1,6 +1,6 @@
 # MPLS_Core_Network
 
-![Image ipa](/home/nchandek/redhat/githubprojects/MPLS_Core_Network/images/1.png)
+![Image ipa](https://github.com/NileshChandekar/MPLS_Core_Network/blob/master/images/1.png)
 
 
 * Here we are going to setup `MPLS NETWORK` for `RHOSP`
