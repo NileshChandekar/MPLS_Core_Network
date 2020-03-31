@@ -479,3 +479,13 @@
 * Route Details.
 
 ![Image ipa](https://github.com/NileshChandekar/MPLS_Core_Network/blob/master/images/5.png)
+
+### Testing the ping results. // Test untagged traffic.
+
+* Ping
+
+![Image ipa](https://github.com/NileshChandekar/MPLS_Core_Network/blob/master/images/7.png)
+
+* TCPDUMP
+
+![Image ipa](https://github.com/NileshChandekar/MPLS_Core_Network/blob/master/images/8.png)
