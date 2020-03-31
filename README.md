@@ -484,11 +484,11 @@
 
 * Ping
 
-![Image ipa](https://github.com/NileshChandekar/MPLS_Core_Network/blob/master/images/7.png)
+![Image ipa](https://github.com/NileshChandekar/MPLS_Core_Network/blob/master/images/11.png)
 
 * TCPDUMP
 
-![Image ipa](https://github.com/NileshChandekar/MPLS_Core_Network/blob/master/images/8.png)
+![Image ipa](https://github.com/NileshChandekar/MPLS_Core_Network/blob/master/images/12.png)
 
 ### Testing the ping results. // Test `tagged` traffic.
 
