@@ -480,7 +480,7 @@
 
 ![Image ipa](https://github.com/NileshChandekar/MPLS_Core_Network/blob/master/images/5.png)
 
-### Testing the ping results. // Test untagged traffic.
+### Testing the ping results. // Test `untagged` traffic.
 
 * Ping
 
@@ -489,3 +489,13 @@
 * TCPDUMP
 
 ![Image ipa](https://github.com/NileshChandekar/MPLS_Core_Network/blob/master/images/8.png)
+
+### Testing the ping results. // Test `tagged` traffic.
+
+* Ping
+
+![Image ipa](https://github.com/NileshChandekar/MPLS_Core_Network/blob/master/images/9.png)
+
+* TCPDUMP
+
+![Image ipa](https://github.com/NileshChandekar/MPLS_Core_Network/blob/master/images/10.png)
