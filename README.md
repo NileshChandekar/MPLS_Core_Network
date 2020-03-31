@@ -8,8 +8,6 @@
 * At the last you will be able to ping from `Central` to `Edge` node.
 * You will be able to test `untagged` and `tagged` traffic.
 
-Step 1
-
 ### R1
 
   ~~~
@@ -458,3 +456,9 @@ Step 1
       bridge-vlan-aware yes
       bridge-stp on
   ~~~
+
+* Linux Nodes Interface Configurations.
+
+![Image ipa](https://github.com/NileshChandekar/MPLS_Core_Network/blob/master/images/2.png)
+
+![Image ipa](https://github.com/NileshChandekar/MPLS_Core_Network/blob/master/images/3.png)
